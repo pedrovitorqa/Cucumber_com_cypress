@@ -1,3 +1,9 @@
+<h1 align="center">
+
+![essa](https://user-images.githubusercontent.com/69403840/177877135-8916979e-9fa4-48b2-a0dd-090fe5a49dc0.png) 
+
+</h1>
+
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
