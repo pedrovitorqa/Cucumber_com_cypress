@@ -44,6 +44,8 @@ No Cypress:
 
 Modo Headless:
 
+![](https://files.slack.com/files-pri/T06B26EUW-F03NR28EU0K/image.png)
+
 
 
 
