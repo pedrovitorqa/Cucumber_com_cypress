@@ -40,6 +40,8 @@ Confirmação dos cenários rodando
 
 No Cypress:
 
+![image](https://user-images.githubusercontent.com/69403840/177876497-9d0a31a8-c86a-410f-9768-c38b3d5f2e3e.png)
+
 Modo Headless:
 
 
