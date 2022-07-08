@@ -14,7 +14,7 @@
 
   Feito automação de testes com cypress e cucumber de uma calculdora, onde o desafio foi crias cenários em BDD junto   com cypress <br>
   
-  Link da caculadora: https://kylbutlr-calculator.herokuapp.com/
+  Link da calculadora: https://kylbutlr-calculator.herokuapp.com/
   
   ## Foi realizado a automação de:<br>
     Soma.               ✅
